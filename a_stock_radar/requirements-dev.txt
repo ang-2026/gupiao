@@ -1,0 +1,6 @@
+# 电脑上运行/开发界面所需依赖
+kivy==2.3.1
+pillow>=10.0
+
+# 打包 APK 时另需（在 Linux/WSL 中）：
+#   pip install buildozer cython virtualenv
